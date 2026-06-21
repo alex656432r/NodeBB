@@ -1,0 +1,13 @@
+{
+    "url": "https://onrender.com",
+    "secret": "my-secret-key-12345",
+    "database": "postgres",
+    "postgres": {
+        "host": "://render.com",
+        "port": "5432",
+        "username": "my_forum_db_lc7s_user",
+        "password": "oMhg57ZtUZSIweEjUjl1rrpDQpnv2EQH",
+        "database": "my_forum_db_lc7s",
+        "ssl": true
+    }
+}

@@ -1,13 +1,14 @@
 {
-    "url": "https://onrender.com",
-    "secret": "my-secret-key-12345",
-    "database": "postgres",
-    "postgres": {
-        "host": "://render.com",
-        "port": "5432",
-        "username": "my_forum_db_lc7s_user",
-        "password": "oMhg57ZtUZSIweEjUjl1rrpDQpnv2EQH",
-        "database": "my_forum_db_lc7s",
-        "ssl": true
-    }
+  "url": "https://onrender.com",
+  "secret": "сгенерируйте_любую_случайную_строку_из_букв_и_цифр",
+  "database": "mongo",
+  "port": "4567",
+  "mongo": {
+    "host": "ваш_хост_базы_данных.mongodb.net",
+    "port": "27017",
+    "username": "имя_пользователя_бд",
+    "password": "пароль_пользователя_бд",
+    "database": "имя_вашей_базы_данных",
+    "uri": "mongodb+srv://имя_пользователя_бд:пароль_пользователя_бд@ваш_хост_базы_данных.mongodb.net/имя_вашей_базы_данных?retryWrites=true&w=majority"
+  }
 }

@@ -1,9 +1,8 @@
 {
-  "url": "https://onrender.com",
-  "secret": "9f27c7d42e1a8b6c5d3f0e7a1c4b8d9e",
-  "database": "mongo",
-  "port": "4567",
-  "mongo": {
-    "uri": "mongodb+srv://admin:Px3%23WkdDnkab6B@cluster0.eqpx.mongodb.net/nodebb?retryWrites=true&w=majority"
-  }
+    "url": "https://onrender.com",
+    "secret": "9f27c7d42e1a8b6c5d3f0e7a1c4b8d9e",
+    "database": "mongo",
+    "mongo": {
+        "connectionString": "mongodb+srv://admin:Px3%23WkdDnkab6B@cluster0.eqpx.mongodb.net/nodebb?retryWrites=true&w=majority"
+    }
 }
